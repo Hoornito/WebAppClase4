@@ -23,7 +23,7 @@
         .span_a{
             margin-left:200px;
             margin-right:200px;
-            font-family:Times New Roman;
+            font-family:'Times New Roman';
         }
     </style>
 </head>
